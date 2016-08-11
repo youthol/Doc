@@ -2,7 +2,12 @@
 
 > 部分内容参考 Google 和腾讯 AlloyTeam 的前端代码规范
 
+[Code Guide by @AlloyTeam](http://alloyteam.github.io/CodeGuide)
+
 ## 总规范
+
+> 坚持制定好的代码规范，无论团队人数多少，代码应该同出一门！
+
 * 忽略协议：如 `<a href="http://www.youthol.cn">青春在线</a>` 应写为 `<a href="//www.youthol.cn">青春在线</a>` ；
 * 缩进使用 soft tab （4个空格）；
 * 命名如无特别要求，均使用小写字母；
@@ -36,6 +41,12 @@ body {
         padding: 0;
 }
 ```
+
+## JavaScript
+
+* 单行注释双斜线后加一个空格
+* 标准变量命名采用驼峰式命名
+* 无论是函数声明还是函数表达式，'('前不要空格，但'{'前一定要有空格
 
    ​
 
