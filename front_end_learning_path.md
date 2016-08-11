@@ -113,8 +113,8 @@ Chrome 浏览器按下 F12 显示的工具，不多解释
 
 学习资料
 
-[廖雪峰的 JavaScript 教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
-[MDN JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
-《JavaScript 高级程序设计》
-《JavaScript 权威指南》
+* [廖雪峰的 JavaScript 教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
+* [MDN JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
+* 《JavaScript 高级程序设计》
+* 《JavaScript 权威指南》
 
