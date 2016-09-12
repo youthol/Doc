@@ -51,6 +51,10 @@ Chrome 浏览器按下 F12 显示的工具，不多解释
 
 用于测试页面在各版本 IE 浏览器下的表现
 
+- [RegExp Texter](https://chrome.google.com/webstore/detail/regexp-tester/fekbbmalpajhfifodaakkfeodkpigjbk?hl=zh-CN)
+
+用于测试正则表达式
+
 ## 语言基础
 
 ### HTML
@@ -118,3 +122,51 @@ Chrome 浏览器按下 F12 显示的工具，不多解释
 * 《JavaScript 高级程序设计》
 * 《JavaScript 权威指南》
 
+
+## 高级内容
+
+### CSS
+
+- 预处理器
+- 后处理器
+
+学习资料
+
+- [sass](http://sass-lang.com/)、[less](http://lesscss.org/)、[stylus](http://stylus-lang.com/) ，选择一个学习
+- [postcss](http://postcss.org/)
+
+### JavaScript
+
+- ECMAScript 6
+
+
+- Vue.js
+- ReactJS
+- AngularJS
+
+学习资料
+
+- [ECMAScript 6入门](http://es6.ruanyifeng.com/)
+
+
+- [Vue.js中文社区](http://www.vue-js.com/)
+- [掘金](gold.xitu.io)
+
+### 前端自动化工具
+
+- gulp
+- fis3
+- grunt（不推荐学习）
+
+学习资料
+
+- [一点--gulp入门](http://www.ydcss.com/archives/18)
+
+### 前端资源加载/打包工具
+
+- webpack
+
+学习资料
+
+- [webpack入门](http://sugarball.me/yi-webpackru-men-zhi-nan/)
+- [Webpack傻瓜式指南](https://zhuanlan.zhihu.com/p/20367175)
