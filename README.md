@@ -4,6 +4,25 @@
 * [前端代码规范](front_end_code_guide.md)
 * [前端学习路线](front_end_learning_path.md)
 
+# 网站推荐
+
+* [w3cplus](http://www.w3cplus.com/)
+* [奇舞周刊（360奇舞团）](http://old.75team.com/weekly/)
+* [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
+* [腾讯全端 AlloyTeam 团队 Blog](http://www.alloyteam.com/)
+* [伯乐在线](http://www.jobbole.com/)
+* [前端网（W3Cfuns）](http://www.w3cfuns.com/)
+* [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
+* [廖雪峰的官方网站](http://www.liaoxuefeng.com/)
+* [PHP 最佳实践: 一份简短的关于 PHP 容易混淆知识点的实用指南](http://phpbestpractices.justjavac.com/)
+* [PHP 之道](http://laravel-china.github.io/php-the-right-way/)
+* [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm)
+
+# 文章推荐
+
+* [Git Cheat Sheet 中文版](http://blog.igevin.info/posts/git-cheat-sheet/)
+* [JavaScript 学习思维导图](http://weber.pub/javascript%E5%AD%A6%E4%B9%A0%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/104.html)
+
 # 第三方文档
 
 ## HTML 相关
