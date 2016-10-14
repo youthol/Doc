@@ -22,6 +22,7 @@
 
 * [Git Cheat Sheet 中文版](http://blog.igevin.info/posts/git-cheat-sheet/)
 * [JavaScript 学习思维导图](http://weber.pub/javascript%E5%AD%A6%E4%B9%A0%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/104.html)
+* [快速搭建 Node.js / io.js 开发环境以及加速 npm](https://fengmk2.com/blog/2014/03/node-env-and-faster-npm.html)
 
 # 第三方文档
 
@@ -45,4 +46,10 @@
 
 * [JavaScript 指南 (MDN)](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide)
 * [JavaScript 文档 (MDN)](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
+* [ECMAScript 6入门](http://es6.ruanyifeng.com/)
+
+## Node.js 相关
+
+* [七天学会 NodeJS](http://nqdeng.github.io/7-days-nodejs/)
+* [Node.js 包教不包会](https://github.com/alsotang/node-lessons)
 
