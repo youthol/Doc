@@ -150,7 +150,7 @@ Chrome 浏览器按下 F12 显示的工具，不多解释
 
 
 - [Vue.js中文社区](http://www.vue-js.com/)
-- [掘金](gold.xitu.io)
+- [掘金](http://gold.xitu.io/)
 
 ### 前端自动化工具
 
