@@ -5,6 +5,8 @@
 * [前端学习路线](front_end_learning_path.md)
 * [前端知识体系](front_end_knowledge_system.md)
 
+# [书籍推荐](https://github.com/youthol/Doc/blob/master/books.md)
+
 # 网站推荐
 
 * [w3cplus](http://www.w3cplus.com/)
